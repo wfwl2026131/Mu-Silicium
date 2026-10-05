@@ -19,6 +19,9 @@ function _help(){
 function _error(){ echo -e "\033[1;31m${@}\033[0m" >&2;exit 1; }
 function _warn(){ echo -e "\033[0;33m${@}\033[0m" >&2; }
 
+# Force RELEASE for low-memory boot
+TARGET_BUILD_MODE=RELEASE
+
 # Check for Parameters
 OPTS="$(getopt -o r:sh -l release:,enable-secureboot,help -n 'build_active_devices.sh' -- "$@")"||exit 1
 eval set -- "${OPTS}"
