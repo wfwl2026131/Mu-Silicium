@@ -28,7 +28,7 @@
 
 <img align="right" src="Resources/Pictures/Samsung-Galaxy-S24.png" width="400" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** e1s
 
 **Contributors:** [Robotix](https://github.com/Robotix22/), [halal-beef](https://github.com/halal-beef/)
@@ -74,7 +74,7 @@
 
 <img align="right" src="Resources/Pictures/Samsung-Galaxy-Note20-5G.png" width="250" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** c1s
 
 **Contributors:** [halal-beef](https://github.com/halal-beef/), [BotchedRPR](https://github.com/BotchedRPR/)
@@ -182,7 +182,7 @@
 
 <img align="right" src="Resources/Pictures/Samsung-Galaxy-S20-FE.png" width="432" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** r8s
 
 **Contributors:** [halal-beef](https://github.com/halal-beef/), [Sota4Ever](https://github.com/Sota4Ever/)
@@ -228,7 +228,7 @@
 
 <img align="right" src="Resources/Pictures/Samsung-Galaxy-S10.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** beyond1lte
 
 **Contributors:** [Robotix](https://github.com/Robotix22/)
@@ -362,7 +362,7 @@
 
 <img align="right" src="Resources/Pictures/Samsung-Galaxy-A10.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** a10
 
 **Contributors:** [snaccy](https://github.com/sonic011gamer/)
@@ -394,7 +394,7 @@
 
 <img align="right" src="Resources/Pictures/Samsung-Galaxy-A7.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** a7
 
 **Contributors:** [Icesito](https://github.com/Icesito68/)
@@ -440,7 +440,7 @@
 
 <img align="right" src="Resources/Pictures/Samsung-Galaxy-Tab-A-10.1.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** gtaxllte
 
 **Contributors:** [Glitchythedev](https://github.com/Glitchythedev/), [AistopGit](https://github.com/AistopGit)
@@ -521,7 +521,7 @@
 
 <img align="right" src="Resources/Pictures/Xiaomi-POCO-M5.png" width="400" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** stone
 
 **Contributors:** [Nikroks](https://github.com/N1kroks/)
@@ -558,7 +558,7 @@
 
 <img align="right" src="Resources/Pictures/Xiaomi-Redmi-9.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** lancelot
 
 **Contributors:** [Nikroks](https://github.com/N1kroks/)
@@ -760,7 +760,7 @@
 
 <img align="right" src="Resources/Pictures/OnePlus-13.png" width="550" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** dodge
 
 **Contributors:** [Robotix](https://github.com/Robotix22/), [N1kroks](https://github.com/N1kroks/), [index986](https://github.com/index986/)
@@ -882,7 +882,7 @@
 
 <img align="right" src="Resources/Pictures/Xiaomi-Poco-F7.png" width="400" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** onyx
 
 **Contributors:** [Robotix](https://github.com/Robotix22/)
@@ -975,7 +975,7 @@
 
 <img align="right" src="Resources/Pictures/Realme-GT-Neo6.png" width="400" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** bale_b
 
 **Contributors:** [Robotix](https://github.com/Robotix22/), [Shandorman](https://github.com/jiganomegsdfdf/), [InternalHellhound](https://github.com/InternalHellhound), [index986](https://github.com/index986/), [Daniel224455](https://github.com/Daniel224455/), [Aistop](https://github.com/AistopGit/)
@@ -1045,7 +1045,7 @@
 
 <img align="right" src="Resources/Pictures/Xiaomi-Pad-7-Pro.png" width="400" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** muyu
 
 **Contributors:** [Sinetek (mail)](mailto:philmb3487@proton.me), [Sinetek (gitlab)](https://gitlab.com/philmb3487/)
@@ -1068,7 +1068,7 @@
 
 <img align="right" src="Resources/Pictures/Xiaomi-Poco-F6.png" width="400" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** peridot
 
 **Contributors:** [Robotix](https://github.com/Robotix22/), [PugzAreCute](https://github.com/PugzAreCute), [InternalHellhound](https://github.com/InternalHellhound), [iNUCi](https://github.com/iNUCi), [Daniel224455](https://github.com/Daniel224455/), [Aistop](https://github.com/AistopGit/)
@@ -1308,7 +1308,7 @@
 
 <img align="right" src="Resources/Pictures/OnePlus-12R.png" width="350" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** aston <br>
 **Models:** 2
 
@@ -1480,7 +1480,7 @@
 
 <img align="right" src="Resources/Pictures/Xiaomi-13-Pro.png" width="350" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** nuwa
 
 **Contributors:** [Robotix](https://github.com/Robotix22/), [Alfa](https://github.com/alfaonyt/)
@@ -1550,7 +1550,7 @@
 
 <img align="right" src="Resources/Pictures/RedMagic-8-Pro.png" width="350" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** nx729j
 
 **Contributors:** [Robotix](https://github.com/Robotix22/), [Nikka](https://github.com/NikkaGames/)
@@ -1636,7 +1636,7 @@
 
 <img align="right" src="Resources/Pictures/Nothing-Phone-2.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** pong
 
 **Contributors:** [Robotix](https://github.com/Robotix22/), [N1kroks](https://github.com/N1kroks/), [index986](https://github.com/index986/)
@@ -1777,7 +1777,7 @@
 
 <img align="right" src="Resources/Pictures/Samsung-Galaxy-Z-Flip-4.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** b4q
 
 **Contributors:** [Robotix](https://github.com/Robotix22/)
@@ -1847,7 +1847,7 @@
 
 <img align="right" src="Resources/Pictures/Xiaomi-Poco-F5.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** marble
 
 **Contributors:** [Yuzuru10](https://github.com/Yuzuru10/), [Robotix](https://github.com/Robotix22/)
@@ -2130,7 +2130,7 @@
 
 <img align="right" src="Resources/Pictures/Xiaomi-Poco-F4-GT.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** ingres
 
 **Contributors:** [Robotix](https://github.com/Robotix22/), [Nikka](https://github.com/NikkaGames/)
@@ -2213,7 +2213,7 @@
 
 <img align="right" src="Resources/Pictures/Asus-ROG-Phone-5.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** i005d
 
 **Contributors:** [Robotix](https://github.com/Robotix22/), [Alfa](https://github.com/alfaonyt/)
@@ -2241,7 +2241,7 @@
 
 <img align="right" src="Resources/Pictures/Oneplus-9.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** lemonade
 
 **Contributors:** [Arminas](https://github.com/arminask), [Robotix](https://github.com/Robotix22/)
@@ -2321,7 +2321,7 @@
 
 <img align="right" src="Resources/Pictures/Samsung-Galaxy-S21-Fe.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** r9qb2
 
 **Contributors:** [Robotix](https://github.com/Robotix22/), [Nikroks](https://github.com/N1kroks/), [Icesito68](https://github.com/Icesito68/)
@@ -2392,7 +2392,7 @@
 
 <img align="right" src="Resources/Pictures/Samsung-Galaxy-Z-Fold-3-5G.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** q2q
 
 **Contributors:** [Robotix](https://github.com/Robotix22/), [Azkali](https://github.com/Azkali/)
@@ -2465,7 +2465,7 @@
 
 <img align="right" src="Resources/Pictures/Xiaomi-Mi-11.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** venus
 
 **Contributors:** [Robotix](https://github.com/Robotix22/), [Daniel224455](https://github.com/Daniel224455/)
@@ -2611,7 +2611,7 @@
 
 <img align="right" src="Resources/Pictures/OnePlus-8T.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** kebab
 
 **Contributors:** [Robotix](https://github.com/Robotix22/), [SwedMlite](https://github.com/SwedMlite/)
@@ -2679,7 +2679,7 @@
 
 <img align="right" src="Resources/Pictures/Lenovo-Legion-Tab-Y700.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** 9707f
 
 **Contributors:** [hyusang](https://github.com/cloudsweets/)
@@ -2749,7 +2749,7 @@
 
 <img align="right" src="Resources/Pictures/Realme-GT-NEO-2.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** bitra
 
 **Contributors:** [Robotix](https://github.com/Robotix22/), [kubawis128](https://github.com/kubawis128/)
@@ -2848,7 +2848,7 @@
 
 <img align="right" src="Resources/Pictures/Samsung-Galaxy-S20-FE-r8q.png" width="390" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** r8q
 
 **Contributors:** [olegos2](https://github.com/olegos2), [Robotix](https://github.com/Robotix22/)
@@ -2877,7 +2877,7 @@
 
 <img align="right" src="Resources/Pictures/Xiaomi-Pad-6.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** pipa
 
 **Contributors:** [Statzar](https://github.com/Statzar), [N1kroks](https://github.com/N1kroks), [Robotix](https://github.com/Robotix22/), [6adp](https://github.com/6adp)
@@ -3165,7 +3165,7 @@
 
 <img align="right" src="Resources/Pictures/Xiaomi-Mi-9.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** cepheus
 
 **Contributors:** [Daniel224455](https://github.com/Daniel224455)
@@ -3229,7 +3229,7 @@
 
 <img align="right" src="Resources/Pictures/Xiaomi-Poco-X3-Pro.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** vayu
 
 **Contributors:** [Daniel224455](https://github.com/Daniel224455), [remtrik](https://github.com/remtrik), [Nikroks](https://github.com/N1kroks)
@@ -3309,7 +3309,7 @@
 
 <img align="right" src="Resources/Pictures/LG-Velvet.png" width="300" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** caymanslm
 
 **Contributors:** [CodeLindro](https://github.com/leandrofriedrich/)
@@ -3461,7 +3461,7 @@
 
 <img align="right" src="Resources/Pictures/Samsung-Galaxy-S9.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** starqltechn
 
 **Contributors:** [Violet](https://github.com/ghatt-o/) [Robotix](https://github.com/Robotix22/)
@@ -3532,7 +3532,7 @@
 
 <img align="right" src="Resources/Pictures/Xiaomi-Mi-8-Pro.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** equuleus
 
 **Contributors:** [index986](https://github.com/index986/)
@@ -3555,7 +3555,7 @@
 
 <img align="right" src="Resources/Pictures/Xiaomi-Mi-Mix-2S.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** polaris
 
 **Contributors:** [Daniel224455](https://github.com/Daniel224455/), [TrustedFloppa](https://github.com/TrustedFloppa/)
@@ -3643,7 +3643,7 @@
 
 <img align="right" src="Resources/Pictures/OnePlus-5.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** cheeseburger
 
 **Contributors:** [index986](https://github.com/index986/)
@@ -3822,7 +3822,7 @@
 
 <img align="right" src="Resources/Pictures/Nothing-Phone-1.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** spacewar
 
 **Contributors:** [Robotix](https://github.com/Robotix22/), [index986](https://github.com/index986/)
@@ -4012,7 +4012,7 @@
 
 <img align="right" src="Resources/Pictures/Lenovo-Tab-P11-Pro-2020.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** j706f
 
 **Contributors:** [hyusang](https://github.com/cloudsweets/)
@@ -4152,7 +4152,7 @@
 
 <img align="right" src="Resources/Pictures/Xiaomi-Poco-X2.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** phoenix <br>
 **Models:** 2
 
@@ -4177,7 +4177,7 @@
 
 <img align="right" src="Resources/Pictures/Xiaomi-Redmi-Note-12-Pro-4G.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** sweet_k6a
 
 **Contributors:** [Robotix](https://github.com/Robotix22/)
@@ -4450,7 +4450,7 @@
 
 <img align="right" src="Resources/Pictures/Samsung-Galaxy-Tab-A9+.png" width="550" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** gta9pwifi
 
 **Contributors:** [Violet](https://github.com/ghatt-o/)
@@ -4482,7 +4482,7 @@
 
 <img align="right" src="Resources/Pictures/Xiaomi-Redmi-Note-11-Pro-5G.png" width="550" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** veux
 
 **Contributors:** [Robotix](https://github.com/Robotix22/), [index986](https://github.com/index986/)
@@ -4523,7 +4523,7 @@
 
 <img align="right" src="Resources/Pictures/Xiaomi-Redmi-10C.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** fog
 
 **Contributors:** [Statzar](https://github.com/Statzar/)
@@ -4620,7 +4620,7 @@
 
 <img align="right" src="Resources/Pictures/Xiaomi-Redmi-Note-11.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** spes
 
 **Contributors:** [Statzar](https://github.com/Statzar/)
@@ -4719,7 +4719,7 @@
 
 <img align="right" src="Resources/Pictures/Xiaomi-Redmi-Note-12.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** tapas
 
 **Contributors:** [Statzar](https://github.com/Statzar/), [6adp](https://github.com/6adp/)
@@ -4839,7 +4839,7 @@
 
 <img align="right" src="Resources/Pictures/Xiaomi-Mi-A3.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** laurel_sprout
 
 **Contributors:** [Kernel357](https://github.com/Kernel357/)
@@ -4863,7 +4863,7 @@
 
 <img align="right" src="Resources/Pictures/Xiaomi-Redmi-Note-8T.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** willow
 
 **Contributors:** [SwedMlite](https://github.com/SwedMlite), [Robotix](https://github.com/Robotix22/), [Vicente Cortes](https://github.com/vicenteicc2008/)
@@ -4925,7 +4925,7 @@
 
 <img align="right" src="Resources/Pictures/Xiaomi-Redmi-Note-8.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** ginkgo
 
 **Contributors:** [index986](https://github.com/index986/)
@@ -4972,7 +4972,7 @@
 
 <img align="right" src="Resources/Pictures/Motorola-Moto-G30.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** caprip
 
 **Contributors:** [Vicente Cortes](https://github.com/vicenteicc2008/)
@@ -5036,7 +5036,7 @@
 
 <img align="right" src="Resources/Pictures/Motorola-Moto-G9-Power.png" width="400" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** cebu
 
 **Contributors:** [remtrik](https://github.com/remtrik/), [hiprivsid](https://github.com/hiprivsid/)
@@ -5074,7 +5074,7 @@
 
 <img align="right" src="Resources/Pictures/Samsung-Galaxy-Tab-A7-LTE.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** gta4l
 
 **Contributors:** [V6lhost](https://github.com/V6lhost/)
@@ -5103,7 +5103,7 @@
 
 <img align="right" src="Resources/Pictures/Xiaomi-Redmi-9T.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** lime
 
 **Contributors:** [Robotix](https://github.com/Robotix22/)
@@ -5168,7 +5168,7 @@
 
 <img align="right" src="Resources/Pictures/Xiaomi-Poco-M3.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** citrus
 
 **Contributors:** [Robotix](https://github.com/Robotix22), [9.8.7.6](https://github.com/Daniel224455), [NUC](https://github.com/iNUCi), [Aistop](https://github.com/AistopGit), [All_One1](https://github.com/Ost268), [Heyylucazzz](https://github.com/heyylucazzz)
@@ -5256,7 +5256,7 @@
 
 <img align="right" src="Resources/Pictures/Xiaomi-Redmi-Note-7.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** lavender
 
 **Contributors:** [index986](https://github.com/index986)
@@ -5347,7 +5347,7 @@
 
 <img align="right" src="Resources/Pictures/Xiaomi-Mi-Max-3.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** nitrogen
 
 **Contributors:** [Robotix](https://github.com/Robotix22/), [Aistop](https://github.com/AistopGit/)
@@ -5479,7 +5479,7 @@
 
 <img align="right" src="Resources/Pictures/Nintendo-Switch.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** nx <br>
 **Models:** 2
 
