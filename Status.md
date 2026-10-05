@@ -1847,7 +1847,7 @@
 
 <img align="right" src="Resources/Pictures/Xiaomi-Poco-F5.png" width="500" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Activee <br>
 **Codename:** marble
 
 **Contributors:** [Yuzuru10](https://github.com/Yuzuru10/), [Robotix](https://github.com/Robotix22/)
@@ -1884,7 +1884,7 @@
 
 <img align="right" src="Resources/Pictures/Xiaomi-Redmi-Note-13-Pro-5G.png" width="500" alt="Preview">
 
-**State:** ActiveInactive <br>
+**State:** InactiveInactive <br>
 **Codename:** garnet
 
 **Contributors:** [iNUCi](https://github.com/iNUCi)
