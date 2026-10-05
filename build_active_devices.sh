@@ -40,7 +40,7 @@ done
 # Set Release Type of UEFI
 while true
 do case "${TARGET_BUILD_MODE^^}" in
-		DEBUG) TARGET_BUILD_MODE=RELEASE;break;;
+		DEBUG) TARGET_BUILD_MODE=DEBUG;break;;
 		*) TARGET_BUILD_MODE=RELEASE;break;;
 	esac
 done
